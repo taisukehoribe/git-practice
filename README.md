@@ -1,2 +1,2 @@
-hoge
-I'll do it to change the content.
+hello. my name is taisuke.
+I'm doing the first git practice.
